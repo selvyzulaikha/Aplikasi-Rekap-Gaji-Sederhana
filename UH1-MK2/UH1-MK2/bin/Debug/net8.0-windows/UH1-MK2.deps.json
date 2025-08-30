@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UH1-MK2/1.0.0": {
+        "runtime": {
+          "UH1-MK2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UH1-MK2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

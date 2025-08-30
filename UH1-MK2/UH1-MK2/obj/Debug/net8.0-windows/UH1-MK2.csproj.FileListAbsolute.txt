@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1_MK2.Form1.resources
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1_MK2.Form2.resources
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\bin\Debug\net8.0-windows\UH1-MK2.exe
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\bin\Debug\net8.0-windows\UH1-MK2.deps.json
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\bin\Debug\net8.0-windows\UH1-MK2.runtimeconfig.json
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\bin\Debug\net8.0-windows\UH1-MK2.dll
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\bin\Debug\net8.0-windows\UH1-MK2.pdb
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.dll
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\refint\UH1-MK2.dll
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.pdb
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\UH1-MK2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UH1-MK2\UH1-MK2\obj\Debug\net8.0-windows\ref\UH1-MK2.dll
